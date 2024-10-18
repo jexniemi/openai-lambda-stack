@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# openai-lambda-stack
 
 Invoke OpenAI with Lambda through API Gateway (with rate limit and API key).
 
